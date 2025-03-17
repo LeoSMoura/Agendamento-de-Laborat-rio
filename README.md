@@ -1,1 +1,1 @@
-Branch para elaboração de códigos, e adicionar funções
+Alterações do João.

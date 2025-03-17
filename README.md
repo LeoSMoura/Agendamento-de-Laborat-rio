@@ -1,1 +1,1 @@
-Branch para elaboração de códigos.
+Branch para elaboração de códigos, e adicionar funções
